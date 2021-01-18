@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086401811605",
+    "firebase_url": "https://khojkare-88d2c.firebaseio.com",
+    "project_id": "khojkare-88d2c",
+    "storage_bucket": "khojkare-88d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086401811605:android:7774617ab564a8f826b79c",
+        "android_client_info": {
+          "package_name": "com.resolversquad.khojkare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086401811605-i0ff0cuju1h03ukin29hrng4rkbe8n4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOVdX6n_LK0tipxXvWnu4ih02ovIIx-p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086401811605-i0ff0cuju1h03ukin29hrng4rkbe8n4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
